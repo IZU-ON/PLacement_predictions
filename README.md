@@ -46,3 +46,6 @@ The project includes visualizations comparing predicted and actual salaries for 
 1. Clone the repository:
    ```bash
    git clone https://github.com/IZU-ON/PLacement_predictions/tree/main
+   
+## Conclusion
+This project provides a comprehensive approach to predicting student placement salaries using machine learning models. By comparing various algorithms, the project identifies the most effective techniques for accurate salary prediction
